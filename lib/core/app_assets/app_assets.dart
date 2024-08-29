@@ -1,0 +1,29 @@
+class AppAssets {
+  static const String kBoy = 'assets/images/Boy.svg';
+  static const String kSearch = 'assets/images/Search.svg';
+  static const String kNatural = 'assets/images/Natural.jpg';
+  static const String kGirl = 'assets/images/Girl.png';
+  static const String kCursor = 'assets/images/Cursor.svg';
+  static const String kPlay = 'assets/images/Play.png';
+  static const String kSea = 'assets/images/Sea.png';
+  static const String kEye = 'assets/images/Eye.png';
+  static const String kHome = 'assets/images/Home.svg';
+  static const String kNews = 'assets/images/News.svg';
+  // static const String kProfile = 'assets/images/Profile.svg';
+  static const String kNotification = 'assets/images/Notification.svg';
+  static const String kNaturalView1 = 'assets/images/NaturalView.jpg';
+  static const String kNaturalView2 = 'assets/images/NaturalView2.jpg';
+  static const String kNaturalView3 = 'assets/images/NaturalView3.jpg';
+  static const String kWalterWhite = 'assets/images/WalterWhite.png';
+  static const String kSelected = 'assets/images/Selected.png';
+  static const String kNotSelected = 'assets/images/NotSelected.png';
+  static const String kMainProfile = 'assets/images/MainProfile.jpg';
+  static const String kEgyptianMuseum = 'assets/images/EgyptianMuseum.jpg';
+  static const String kBritishMuseum = 'assets/images/BritishMuseum.jpg';
+  static const String kDate = 'assets/images/Date.svg';
+  static const String kTime = 'assets/images/Time.svg';
+  static const String kRussia1 = 'assets/images/Russia1.jpg';
+  static const String kRussia2 = 'assets/images/Russia2.jpg';
+  static const String kRussia3 = 'assets/images/Russia3.jpg';
+  static const String kRussia4 = 'assets/images/Russia4.jpg';
+}
